@@ -17,3 +17,7 @@ The data is cleaned of missing values and unwanted columns. Data columns are als
 to our analysis goals and feature importance. An anaysis is performed to explore the relationship between the Targert variable "Price" and all other features.
 Regression models are then fitted to the data and examined. The most accurate performing model is then chosen to make final predictions.
 
+### Regression models used:
+- LassoCV
+- RidgeCV
+- ElasticNetCV
